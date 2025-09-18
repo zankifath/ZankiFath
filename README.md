@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 --> 
 <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OW1qNmZ1Njk0aHVoZXptaHV2OWFxbzBxOGt0azlnOHZhYXBpbHhsbSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/OU6tgBi0YJ4HK/giphy.gif" alt="GIF Pertama" width="400" align="left">
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2RyNWRiYnBzeWVuMnh2YWt0OGNhZDh5MW56bmFvdThremcwN3d3byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13isJ0YVJbQF2M/giphy.gif" alt="GIF Kedua" width="400" align="right">
-<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3d25sbnozd3N0NzFvbnRtMG9lYTZ3amdyNGkwcDR1YWRlc21qc2d3eCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/zkA5kRmmOfoUE/giphy.gif" alt="GIF Kedua" width="800" align="right">
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3d25sbnozd3N0NzFvbnRtMG9lYTZ3amdyNGkwcDR1YWRlc21qc2d3eCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/zkA5kRmmOfoUE/giphy.gif" alt="GIF Kedua" width="1000" align="right">
