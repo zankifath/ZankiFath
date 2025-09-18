@@ -16,4 +16,3 @@ Here are some ideas to get you started:
 --> 
 <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eTNzbjYzemNudnRqeWpiN25qNG9yMTN1OXR2OW1xd3ptYmlpc3dsbyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/qb1eHxhUHLdsc/giphy.gif" alt="GIF Pertama" width="300" align="left">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXhkOTZwYjRkc2Q2M2cwb3RlbmdvenA1ZTRpZnp0NGU3c2tyeG80ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/v7OFL1RGk1m4qTNsb2/giphy.gif" alt="GIF Kedua" width="300" align="right">
-<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eTNzbjYzemNudnRqeWpiN25qNG9yMTN1OXR2OW1xd3ptYmlpc3dsbyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/63IqdUVg9HjDMG9NKF/giphy.gif" alt="GIF Kedua" width="300" align="center">
