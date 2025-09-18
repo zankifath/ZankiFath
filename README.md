@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXhkOTZwYjRkc2Q2M2cwb3RlbmdvenA1ZTRpZnp0NGU3c2tyeG80ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tghDqN6iD0YeTEYMlm/giphy.gif" alt="GIF Pertama" width="300" align="left">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXhkOTZwYjRkc2Q2M2cwb3RlbmdvenA1ZTRpZnp0NGU3c2tyeG80ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/v7OFL1RGk1m4qTNsb2/giphy.gif" alt="GIF Kedua" width="300" align="right">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXhkOTZwYjRkc2Q2M2cwb3RlbmdvenA1ZTRpZnp0NGU3c2tyeG80ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tghDqN6iD0YeTEYMlm/giphy.gif" alt="GIF Pertama" width="400" align="left">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXhkOTZwYjRkc2Q2M2cwb3RlbmdvenA1ZTRpZnp0NGU3c2tyeG80ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/v7OFL1RGk1m4qTNsb2/giphy.gif" alt="GIF Kedua" width="400" align="right">
