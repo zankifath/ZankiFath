@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-[![360_F_918626424_PuAtskcEGzCrJFU0JRbA4MMpjp3tFOLI]()](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3liZjF0YmdqNzRjamFoczFsemlheHl0c2NqcXQ0eXpxZmR2bG8yNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VEzYdo930nTiTuVeMU/giphy.gif)
-
+--> 
+![yy](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHQ1ZjczbXNkbTcwdGs3eXJrNjBsNW9pbzlkNnhsb2l5aGZkZmdhaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/J6JazAkCVLId91L4yM/giphy.gif)
 
