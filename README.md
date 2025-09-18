@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![360_F_918626424_PuAtskcEGzCrJFU0JRbA4MMpjp3tFOLI](https://github.com/user-attachments/assets/5c41cf0b-27af-4aa0-b1bc-c4514a56eeb1)
+[![360_F_918626424_PuAtskcEGzCrJFU0JRbA4MMpjp3tFOLI]()](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3liZjF0YmdqNzRjamFoczFsemlheHl0c2NqcXQ0eXpxZmR2bG8yNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VEzYdo930nTiTuVeMU/giphy.gif)
 
 
