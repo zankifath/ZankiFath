@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![gogo]([https://github.com/user-attachments/assets/cbc7634b-4e35-4f1c-b3d2-0325fd17c054](https://makeagif.com/gif/asta-vs-liebe-final-battle-black-clover-ep-170-60fps-1080p-TIEGaz))
+![360_F_918626424_PuAtskcEGzCrJFU0JRbA4MMpjp3tFOLI](https://github.com/user-attachments/assets/5c41cf0b-27af-4aa0-b1bc-c4514a56eeb1)
+
+
