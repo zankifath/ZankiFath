@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---> 
-![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmhtdTl5cTQ3am90dzliY2g1ejVqNGV5ZHo2dWs5MHp0dmwybXVibSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/12775LeUHMZjNu/giphy.gif)
+-->
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmhtdTl5cTQ3am90dzliY2g1ejVqNGV5ZHo2dWs5MHp0dmwybXVibSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/12775LeUHMZjNu/giphy.gif" width="100%" alt="Full Image">
 
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,discord,github,vscode,php,python)](https://skillicons.dev)
