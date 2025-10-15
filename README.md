@@ -27,9 +27,3 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Zankifath&show_icons=true&theme=tokyonight" alt="GitHub stats" />
 </p>
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/hamzahabdullah" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/hamzahabdullah" target="_blank"><img src="https://img.shields.io/badge/Instagram-pink?logo=instagram&logoColor=white" /></a>
-  <a href="https://hamzahabdullah.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-black?logo=githubpages&logoColor=white" /></a>
-</p>
