@@ -23,4 +23,4 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=Zankifath&show_icons=true&theme=tokyonight" alt="GitHub stats" />
 </p>
 
-<img src="https://tenor.com/bM6i9.gif" width="100%" >
+<img src="https://tenor.com/bM6i9.gif" width="100%" alt="Full Image">
