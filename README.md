@@ -23,4 +23,4 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=Zankifath&show_icons=true&theme=tokyonight" alt="GitHub stats" />
 </p>
 
-<img src="https://www.google.com/imgres?q=ejen%20ali&imgurl=https%3A%2F%2Fcnc-magazine.oramiland.com%2Fparenting%2Fimages%2FEjen_Ali_The_Movie_2.width-800.format-webp.webp&imgrefurl=https%3A%2F%2Fwww.orami.co.id%2Fmagazine%2Fsinopsis-ejen-ali-the-movie-2&docid=oKv7s_MiTFjlYM&tbnid=Dr-EodD8HnBFkM&vet=12ahUKEwiF3fu4-YCRAxXT1TgGHdXUBFgQM3oECHwQAA..i&w=686&h=386&hcb=2&ved=2ahUKEwiF3fu4-YCRAxXT1TgGHdXUBFgQM3oECHwQAA">
+<img src="https://tenor.com/bM6i9.gif" >
