@@ -22,6 +22,3 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Zankifath&show_icons=true&theme=tokyonight" alt="GitHub stats" />
 </p>
-
-[![y](https://tenor.com/bM6i9.gif")]
-<div class="tenor-gif-embed" data-postid="24056309" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/ejen-ali-comot-cheek-cute-cute-cat-gif-24056309">Ejen Ali Comot GIF</a>from <a href="https://tenor.com/search/ejen+ali-gifs">Ejen Ali GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
